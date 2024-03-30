@@ -1,0 +1,109 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(63, 62, 62);
+}
+
+main{
+    display: flex;
+    width: 100%;
+}
+
+.btn-inicio{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    border: none;
+    background-color: rgb(63, 62, 62);
+    display: flex;
+}
+
+.btn-inicio:hover{
+    color: rgb(172, 176, 176);
+}
+
+.btn-nosotros{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    border: none;
+    background-color: rgb(63, 62, 62);
+    display: flex;
+    
+}
+
+.btn-nosotros:hover{
+    color: rgb(172, 176, 176);
+}
+
+.btn-perros{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    border: none;
+    background-color: rgb(63, 62, 62);
+    display: flex;
+    
+}
+
+.btn-perros:hover{
+    color: rgb(172, 176, 176);
+}
+
+.btn-gatos{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    border: none;
+    background-color: rgb(63, 62, 62);
+    display: flex;
+}
+
+.btn-gatos:hover{
+    color: rgb(172, 176, 176);
+}
+
+.btn-contactanos{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    border: none;
+    background-color: rgb(63, 62, 62);
+    display: flex;
+}
+
+.btn-contactanos:hover{
+    color: rgb(172, 176, 176);
+}
+
+.menu{
+    width: 20%;
+    background-color: rgb(63, 62, 62);
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.colores{
+    width: 80%;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.colores div{
+    width: 80%;
+    height: 25%;
+}
+
+.color1{
+    background-color: #ff5733;
+}
+
+.color2{
+    background-color: #ffc300;
+}
+
+.color3{
+    background-color: #50d7ce;
+}
+
+.color4{
+    background-color: #c70039;
+}
